@@ -1,2 +1,2 @@
-# Java-with-DSA
+# JavaWithDSA
 Basic to Advance Leval DSA questions.
